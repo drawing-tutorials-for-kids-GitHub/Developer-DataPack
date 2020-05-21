@@ -1,0 +1,7 @@
+Draw-CodeC created by Spencer Dring.
+
+Draw-CodeC.Initiate = System.File.."srv.int"
+
+
+CallFunc.Draw-CodeC.Initiate.
+CallFunc.SRVSTART
