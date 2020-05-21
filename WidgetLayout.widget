@@ -1,0 +1,10 @@
+Button1 = y/n *
+Button2 = y/n *
+Button3 = y/n *
+Button4 = y/n *
+Button5 = y/n *
+Header1 = y/n * = ""
+Text1 = y/n * = ""
+
+
+'end' WidgetLayout.widget
